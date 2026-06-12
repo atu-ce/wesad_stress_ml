@@ -1,0 +1,19 @@
+subject,age,gender,height_cm,weight_kg,hand,coffee_today,smoker,ill,total_min,baseline_min,stress_min,amusement_min,meditation_min,transient_min,notes
+S2,27,male,175,80,right,no,no,no,101.32,19.07,10.25,6.03,12.8,53.17,The RespiBAN temperature sensor was not fully attached throughout the entire duration of the study protocol.
+S3,27,male,173,69,right,no,no,no,108.22,19.0,10.67,6.25,13.0,59.3,"During the baseline condition, the subject was sitting in a sunny workplace.
+Subject provided a valence label of 7 after the stress condition, claiming that he was looking forward to the next condition and was therefore cheerful."
+S4,25,male,175,90,right,no,no,no,107.05,19.3,10.58,6.2,13.42,57.55,-
+S5,35,male,189,80,right,yes,no,no,104.3,19.97,10.75,6.23,13.23,54.12,Subject might have fallen asleep during the first meditation.
+S6,27,male,170,66,right,yes,yes,no,117.85,19.67,10.83,6.2,13.12,68.03,"Subject claimed that he had a stressfull week and hence the study was rather relaxing for him.
+Stress condition / TSST interview part: subject was not really stressed as he encountered many interviews in the weeks before."
+S7,28,male,184,74,right,no,no,no,87.3,19.77,10.67,6.2,13.17,37.5,-
+S8,27,female,172,64,left,yes,no,no,91.1,19.48,11.17,6.17,13.27,41.02,"Subject had already a rather stressful day, prior to the study.
+Subject felt rather cold in the room where the stress condition was carried out."
+S9,26,male,181,75,right,no,no,yes,87.05,19.67,10.75,6.2,13.22,37.22,-
+S10,28,male,178,76,right,no,no,no,91.6,19.67,12.08,6.2,13.27,40.38,-
+S11,26,female,171,54,right,yes,no,no,87.22,19.67,11.33,6.13,13.18,36.9,-
+S13,28,male,181,82,right,no,no,no,92.28,19.67,11.07,6.37,13.25,41.93,-
+S14,27,male,180,80,right,no,no,no,92.47,19.67,11.25,6.2,13.23,42.12,-
+S15,28,male,186,83,right,no,no,no,87.53,19.58,11.43,6.2,13.23,37.08,Subject didn't really believe the cover story of the stress condition (TSST).
+S16,24,male,184,69,right,no,no,no,93.85,19.67,11.22,6.13,13.2,43.63,Subject felt rather cold in the room where the stress condition was carried out.
+S17,29,female,165,55,right,no,no,no,98.67,19.68,12.05,6.2,12.18,48.55,The RespiBAN temperature sensor was not fully attached throughout the entire duration of the study protocol.
